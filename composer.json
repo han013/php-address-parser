@@ -1,0 +1,24 @@
+{
+    "name": "hanhan/address-parser",
+    "description": "地址自动识别PHP库",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhanghanhan",
+            "email": "15175809883@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "ext-mbstring": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hanhan\\AddressParser\\": ""
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

@@ -1,0 +1,10818 @@
+[
+  {
+    "code": "140105001",
+    "name": "坞城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105002",
+    "name": "营盘街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105003",
+    "name": "北营街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105004",
+    "name": "平阳路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105005",
+    "name": "黄陵街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105006",
+    "name": "小店街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105007",
+    "name": "龙城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105100",
+    "name": "北格镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105200",
+    "name": "西温庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140105201",
+    "name": "刘家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "小店区"
+  },
+  {
+    "code": "140106001",
+    "name": "柳巷街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106002",
+    "name": "文庙街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106003",
+    "name": "庙前街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106004",
+    "name": "迎泽街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106005",
+    "name": "桥东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106006",
+    "name": "老军营街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140106100",
+    "name": "郝庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "迎泽区"
+  },
+  {
+    "code": "140107001",
+    "name": "巨轮街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107002",
+    "name": "三桥街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107003",
+    "name": "鼓楼街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107004",
+    "name": "杏花岭街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107005",
+    "name": "坝陵桥街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107006",
+    "name": "大东关街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107007",
+    "name": "职工新街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107008",
+    "name": "敦化坊街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107009",
+    "name": "涧河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107010",
+    "name": "杨家峪街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107011",
+    "name": "享堂街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140107100",
+    "name": "中涧河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "杏花岭区"
+  },
+  {
+    "code": "140108001",
+    "name": "尖草坪街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108002",
+    "name": "光社街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108003",
+    "name": "上兰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108004",
+    "name": "南寨街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108005",
+    "name": "迎新街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108006",
+    "name": "古城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108007",
+    "name": "汇丰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108008",
+    "name": "柴村街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108009",
+    "name": "新城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108100",
+    "name": "向阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108101",
+    "name": "阳曲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108201",
+    "name": "柏板乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108202",
+    "name": "西墕乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140108400",
+    "name": "太原中北高新技术产业开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "尖草坪区"
+  },
+  {
+    "code": "140109001",
+    "name": "千峰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109002",
+    "name": "下元街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109003",
+    "name": "和平街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109004",
+    "name": "兴华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109005",
+    "name": "万柏林街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109006",
+    "name": "杜儿坪街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109007",
+    "name": "白家庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109008",
+    "name": "南寒街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109009",
+    "name": "东社街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109011",
+    "name": "小井峪街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109012",
+    "name": "西铭街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109013",
+    "name": "长风西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109014",
+    "name": "神堂沟街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140109015",
+    "name": "王化街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "万柏林区"
+  },
+  {
+    "code": "140110001",
+    "name": "义井街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140110002",
+    "name": "罗城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140110003",
+    "name": "晋源街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140110100",
+    "name": "金胜镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140110101",
+    "name": "晋祠镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140110102",
+    "name": "姚村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "晋源区"
+  },
+  {
+    "code": "140121100",
+    "name": "清源镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121101",
+    "name": "徐沟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121102",
+    "name": "东于镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121103",
+    "name": "孟封镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121200",
+    "name": "马峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121201",
+    "name": "柳杜乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121202",
+    "name": "西谷乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121203",
+    "name": "王答乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140121204",
+    "name": "集义乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "清徐县"
+  },
+  {
+    "code": "140122100",
+    "name": "黄寨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122101",
+    "name": "大盂镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122102",
+    "name": "东黄水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122103",
+    "name": "泥屯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122200",
+    "name": "高村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122201",
+    "name": "侯村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122202",
+    "name": "凌井店乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122203",
+    "name": "西凌井乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122205",
+    "name": "杨兴乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140122400",
+    "name": "中心镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "阳曲县"
+  },
+  {
+    "code": "140123100",
+    "name": "娄烦镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123101",
+    "name": "静游镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123102",
+    "name": "杜交曲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123201",
+    "name": "马家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123202",
+    "name": "盖家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123203",
+    "name": "米峪镇乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140123204",
+    "name": "天池店乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "娄烦县"
+  },
+  {
+    "code": "140171401",
+    "name": "唐槐园区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140171402",
+    "name": "学府园区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140171403",
+    "name": "阳曲产业园区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140171404",
+    "name": "潇河园区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140171405",
+    "name": "科创城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140171406",
+    "name": "太原武宿综合保税区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "山西转型综合改革示范区"
+  },
+  {
+    "code": "140181001",
+    "name": "东曲街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181002",
+    "name": "西曲街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181003",
+    "name": "桃园街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181004",
+    "name": "屯兰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181100",
+    "name": "河口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181101",
+    "name": "镇城底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181102",
+    "name": "马兰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181201",
+    "name": "嘉乐泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181202",
+    "name": "梭峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181203",
+    "name": "岔口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181204",
+    "name": "常安乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181205",
+    "name": "原相乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140181206",
+    "name": "邢家社乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "太原市",
+    "district": "古交市"
+  },
+  {
+    "code": "140212100",
+    "name": "新荣镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212101",
+    "name": "古店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212102",
+    "name": "花园屯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212200",
+    "name": "破鲁堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212202",
+    "name": "郭家窑乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212206",
+    "name": "西村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140212209",
+    "name": "堡子湾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "新荣区"
+  },
+  {
+    "code": "140213050",
+    "name": "永泰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213051",
+    "name": "古城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213052",
+    "name": "新旺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213053",
+    "name": "迎宾街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213054",
+    "name": "振华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213055",
+    "name": "清远街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213056",
+    "name": "武定街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213057",
+    "name": "御河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213058",
+    "name": "开源街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213059",
+    "name": "大庆路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213060",
+    "name": "马军营街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213061",
+    "name": "卧虎湾街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213062",
+    "name": "新华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213063",
+    "name": "鹿苑街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213064",
+    "name": "白登山街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213065",
+    "name": "文瀛湖街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213066",
+    "name": "水泊寺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140213067",
+    "name": "小南头街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "平城区"
+  },
+  {
+    "code": "140214001",
+    "name": "新胜街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214002",
+    "name": "新平旺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214016",
+    "name": "新泉路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214017",
+    "name": "民胜街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214018",
+    "name": "口泉街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214023",
+    "name": "平泉路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214025",
+    "name": "和顺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214026",
+    "name": "和瑞街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214027",
+    "name": "平盛路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214028",
+    "name": "清泉街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214029",
+    "name": "西花园街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214030",
+    "name": "老平旺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214031",
+    "name": "新文街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214032",
+    "name": "和旺街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214033",
+    "name": "玉龙街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214034",
+    "name": "云武街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214035",
+    "name": "云燕街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214036",
+    "name": "玉泉街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214037",
+    "name": "平德街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214038",
+    "name": "平喜街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214039",
+    "name": "平源街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214101",
+    "name": "高山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214102",
+    "name": "云冈镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214200",
+    "name": "口泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214206",
+    "name": "西韩岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214207",
+    "name": "平旺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140214210",
+    "name": "鸦儿崖乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云冈区"
+  },
+  {
+    "code": "140215100",
+    "name": "西坪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215101",
+    "name": "倍加造镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215102",
+    "name": "周士庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215201",
+    "name": "吉家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215202",
+    "name": "峰峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215204",
+    "name": "杜庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215205",
+    "name": "党留庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215209",
+    "name": "聚乐乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140215211",
+    "name": "许堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "云州区"
+  },
+  {
+    "code": "140221100",
+    "name": "龙泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221101",
+    "name": "罗文皂镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221102",
+    "name": "大白登镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221103",
+    "name": "王官屯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221104",
+    "name": "古城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221105",
+    "name": "东小村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221106",
+    "name": "友宰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221201",
+    "name": "长城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221204",
+    "name": "狮子屯乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221209",
+    "name": "下深井乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140221212",
+    "name": "鳌石乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "阳高县"
+  },
+  {
+    "code": "140222100",
+    "name": "玉泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222101",
+    "name": "谷前堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222102",
+    "name": "米薪关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222103",
+    "name": "逯家湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222104",
+    "name": "新平堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222200",
+    "name": "卅里铺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222204",
+    "name": "贾家屯乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222206",
+    "name": "赵家沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222208",
+    "name": "南高崖乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222209",
+    "name": "张西河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140222210",
+    "name": "马家皂乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "天镇县"
+  },
+  {
+    "code": "140223100",
+    "name": "壶泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223101",
+    "name": "南村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223102",
+    "name": "加斗镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223103",
+    "name": "作疃镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223104",
+    "name": "梁庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223200",
+    "name": "一斗泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223202",
+    "name": "蕉山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140223206",
+    "name": "宜兴乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "广灵县"
+  },
+  {
+    "code": "140224100",
+    "name": "武灵镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224101",
+    "name": "东河南镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224102",
+    "name": "上寨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224200",
+    "name": "落水河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224205",
+    "name": "赵北乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224206",
+    "name": "石家田乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224207",
+    "name": "柳科乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224208",
+    "name": "白崖台乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224210",
+    "name": "红石塄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224212",
+    "name": "下关乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140224213",
+    "name": "独峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "灵丘县"
+  },
+  {
+    "code": "140225100",
+    "name": "永安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225101",
+    "name": "西坊城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225102",
+    "name": "蔡村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225103",
+    "name": "沙圪坨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225104",
+    "name": "王庄堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225106",
+    "name": "青磁窑镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225201",
+    "name": "东坊城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225203",
+    "name": "裴村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225204",
+    "name": "驼峰乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225205",
+    "name": "西留村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225206",
+    "name": "下韩村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225208",
+    "name": "南榆林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225210",
+    "name": "吴城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225213",
+    "name": "大仁庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225215",
+    "name": "千佛岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140225218",
+    "name": "官儿乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "浑源县"
+  },
+  {
+    "code": "140226100",
+    "name": "云兴镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226101",
+    "name": "鹊儿山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226102",
+    "name": "店湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226200",
+    "name": "管家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226201",
+    "name": "张家场乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226205",
+    "name": "三屯乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226206",
+    "name": "马道头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140226207",
+    "name": "小京庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "左云县"
+  },
+  {
+    "code": "140271400",
+    "name": "经济技术开发区乡级单位",
+    "aliases": [],
+    "province": "山西省",
+    "city": "大同市",
+    "district": "山西大同经济开发区"
+  },
+  {
+    "code": "140302001",
+    "name": "上站街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140302002",
+    "name": "下站街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140302003",
+    "name": "北大街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140302004",
+    "name": "南山路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140302005",
+    "name": "义井街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140302100",
+    "name": "义井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "城区"
+  },
+  {
+    "code": "140303001",
+    "name": "平潭街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140303003",
+    "name": "蔡洼街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140303004",
+    "name": "赛鱼街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140303005",
+    "name": "沙坪街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140303006",
+    "name": "贵石沟街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140303007",
+    "name": "桥头街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "矿区"
+  },
+  {
+    "code": "140311100",
+    "name": "荫营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311101",
+    "name": "河底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311103",
+    "name": "平坦镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311200",
+    "name": "西南舁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311201",
+    "name": "杨家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311202",
+    "name": "李家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311203",
+    "name": "旧街乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140311400",
+    "name": "开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "郊区"
+  },
+  {
+    "code": "140321100",
+    "name": "冠山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321101",
+    "name": "冶西镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321102",
+    "name": "锁簧镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321103",
+    "name": "张庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321104",
+    "name": "东回镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321105",
+    "name": "柏井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321106",
+    "name": "娘子关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321107",
+    "name": "巨城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321200",
+    "name": "石门口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140321201",
+    "name": "岔口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "平定县"
+  },
+  {
+    "code": "140322100",
+    "name": "秀水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322101",
+    "name": "孙家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322102",
+    "name": "路家村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322103",
+    "name": "南娄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322104",
+    "name": "牛村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322105",
+    "name": "苌池镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322106",
+    "name": "上社镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322107",
+    "name": "西烟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322200",
+    "name": "仙人乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322201",
+    "name": "北下庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322203",
+    "name": "梁家寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322204",
+    "name": "西潘乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140322205",
+    "name": "东梁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "阳泉市",
+    "district": "盂县"
+  },
+  {
+    "code": "140403001",
+    "name": "东街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403002",
+    "name": "西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403003",
+    "name": "英雄南路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403004",
+    "name": "英雄中路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403005",
+    "name": "紫金街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403006",
+    "name": "太行东街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403007",
+    "name": "太行西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403008",
+    "name": "延安南路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403009",
+    "name": "常青街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403010",
+    "name": "五马街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403013",
+    "name": "堠北庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403014",
+    "name": "老顶山街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403015",
+    "name": "大辛庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403103",
+    "name": "马厂镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403104",
+    "name": "黄碾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403105",
+    "name": "西白兔镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403400",
+    "name": "长治市漳泽工业转型试验区管理委员会社区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403401",
+    "name": "长治市老顶山旅游开发管理中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140403403",
+    "name": "长治经济技术开发区潞州区部分",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞州区"
+  },
+  {
+    "code": "140404001",
+    "name": "韩店街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404101",
+    "name": "苏店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404102",
+    "name": "荫城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404103",
+    "name": "西火镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404104",
+    "name": "八义镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404106",
+    "name": "郝家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404107",
+    "name": "南宋镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404201",
+    "name": "西池乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404202",
+    "name": "北呈乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404203",
+    "name": "东和乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404400",
+    "name": "振兴乡村生态文化旅游区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404401",
+    "name": "上党经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140404406",
+    "name": "长治市经济技术开发区上党区部分",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "上党区"
+  },
+  {
+    "code": "140405001",
+    "name": "麟绛街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405101",
+    "name": "上村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405102",
+    "name": "渔泽镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405103",
+    "name": "余吾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405104",
+    "name": "吾元镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405105",
+    "name": "张店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405106",
+    "name": "丰宜镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405200",
+    "name": "李高乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405201",
+    "name": "路村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405202",
+    "name": "河神庙乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405400",
+    "name": "长治市屯留区西流寨综合服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405401",
+    "name": "长治市屯留区康庄综合服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405402",
+    "name": "长治市屯留区上莲综合服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140405403",
+    "name": "屯留经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "屯留区"
+  },
+  {
+    "code": "140406001",
+    "name": "潞华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406002",
+    "name": "成家川街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406003",
+    "name": "翟店街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406100",
+    "name": "店上镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406101",
+    "name": "微子镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406102",
+    "name": "辛安泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406104",
+    "name": "史回镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406201",
+    "name": "黄牛蹄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140406400",
+    "name": "潞城经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "潞城区"
+  },
+  {
+    "code": "140423100",
+    "name": "古韩镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423101",
+    "name": "王桥镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423102",
+    "name": "侯堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423103",
+    "name": "夏店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423104",
+    "name": "虒亭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423105",
+    "name": "西营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423106",
+    "name": "王村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423107",
+    "name": "下良镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423108",
+    "name": "善福镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140423402",
+    "name": "襄垣经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "襄垣县"
+  },
+  {
+    "code": "140425100",
+    "name": "青羊镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425101",
+    "name": "龙溪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425102",
+    "name": "石城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425103",
+    "name": "苗庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425104",
+    "name": "玉峡关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425200",
+    "name": "西沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425201",
+    "name": "东寺头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425202",
+    "name": "虹梯关乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425203",
+    "name": "阳高乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425204",
+    "name": "北耽车乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425206",
+    "name": "北社乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425400",
+    "name": "平顺经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140425401",
+    "name": "平顺生态文化旅游示范区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "平顺县"
+  },
+  {
+    "code": "140426101",
+    "name": "东阳关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426102",
+    "name": "上遥镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426103",
+    "name": "西井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426104",
+    "name": "黄崖洞镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426105",
+    "name": "黎侯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426106",
+    "name": "洪井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426107",
+    "name": "西仵镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426108",
+    "name": "程家山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140426400",
+    "name": "黎城县经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "黎城县"
+  },
+  {
+    "code": "140427100",
+    "name": "龙泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427101",
+    "name": "百尺镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427102",
+    "name": "店上镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427103",
+    "name": "晋庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427104",
+    "name": "树掌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427105",
+    "name": "大峡谷镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427106",
+    "name": "集店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427201",
+    "name": "黄山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427202",
+    "name": "东井岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427203",
+    "name": "石坡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140427401",
+    "name": "壶关县经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "壶关县"
+  },
+  {
+    "code": "140428100",
+    "name": "丹朱镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428101",
+    "name": "鲍店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428102",
+    "name": "石哲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428103",
+    "name": "大堡头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428104",
+    "name": "慈林镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428105",
+    "name": "色头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428106",
+    "name": "南漳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428107",
+    "name": "宋村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428108",
+    "name": "南陈镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428201",
+    "name": "碾张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428202",
+    "name": "常张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140428400",
+    "name": "长子经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "长子县"
+  },
+  {
+    "code": "140429100",
+    "name": "丰州镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429101",
+    "name": "洪水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429102",
+    "name": "蟠龙镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429103",
+    "name": "监漳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429104",
+    "name": "故城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429105",
+    "name": "韩北镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429202",
+    "name": "大有乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429203",
+    "name": "贾豁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429205",
+    "name": "上司乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429206",
+    "name": "石北乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429207",
+    "name": "涌泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429208",
+    "name": "分水岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429400",
+    "name": "武乡经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140429401",
+    "name": "武乡县现代农业产业示范区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "武乡县"
+  },
+  {
+    "code": "140430100",
+    "name": "定昌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430101",
+    "name": "郭村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430102",
+    "name": "故县镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430103",
+    "name": "新店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430104",
+    "name": "漳源镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430105",
+    "name": "册村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430106",
+    "name": "沁州黄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430107",
+    "name": "南里镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430108",
+    "name": "松村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430203",
+    "name": "牛寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430206",
+    "name": "杨安乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140430400",
+    "name": "沁县现代农业产业示范区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁县"
+  },
+  {
+    "code": "140431100",
+    "name": "沁河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431101",
+    "name": "郭道镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431102",
+    "name": "灵空山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431103",
+    "name": "王和镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431105",
+    "name": "王陶镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431107",
+    "name": "景凤镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431200",
+    "name": "中峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431201",
+    "name": "法中乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431202",
+    "name": "交口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431203",
+    "name": "聪子峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431204",
+    "name": "韩洪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431207",
+    "name": "赤石桥乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140431400",
+    "name": "沁源经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "长治市",
+    "district": "沁源县"
+  },
+  {
+    "code": "140502001",
+    "name": "东街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502002",
+    "name": "西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502003",
+    "name": "南街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502004",
+    "name": "北街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502006",
+    "name": "钟家庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502007",
+    "name": "西上庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502009",
+    "name": "开发区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140502100",
+    "name": "北石店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "城区"
+  },
+  {
+    "code": "140521100",
+    "name": "龙港镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521101",
+    "name": "中村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521102",
+    "name": "郑庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521103",
+    "name": "端氏镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521104",
+    "name": "嘉峰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521105",
+    "name": "郑村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521106",
+    "name": "柿庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521201",
+    "name": "土沃乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521202",
+    "name": "张村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521204",
+    "name": "胡底乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521205",
+    "name": "固县乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140521206",
+    "name": "十里乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "沁水县"
+  },
+  {
+    "code": "140522100",
+    "name": "凤城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522101",
+    "name": "北留镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522102",
+    "name": "润城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522103",
+    "name": "町店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522104",
+    "name": "芹池镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522105",
+    "name": "次营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522106",
+    "name": "横河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522107",
+    "name": "河北镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522108",
+    "name": "蟒河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522109",
+    "name": "东冶镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522110",
+    "name": "演礼镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522111",
+    "name": "白桑镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522201",
+    "name": "寺头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522202",
+    "name": "西河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140522205",
+    "name": "董封乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "阳城县"
+  },
+  {
+    "code": "140524100",
+    "name": "崇文镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524101",
+    "name": "礼义镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524102",
+    "name": "附城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524103",
+    "name": "西河底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524104",
+    "name": "平城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524105",
+    "name": "杨村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524106",
+    "name": "潞城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524204",
+    "name": "夺火乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524206",
+    "name": "马圪当乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524207",
+    "name": "古郊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140524209",
+    "name": "六泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "陵川县"
+  },
+  {
+    "code": "140525100",
+    "name": "南村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525101",
+    "name": "下村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525102",
+    "name": "大东沟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525103",
+    "name": "周村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525104",
+    "name": "犁川镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525105",
+    "name": "晋庙铺镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525106",
+    "name": "金村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525107",
+    "name": "高都镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525108",
+    "name": "巴公镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525109",
+    "name": "大阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525110",
+    "name": "山河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525111",
+    "name": "大箕镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525112",
+    "name": "柳树口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525113",
+    "name": "北义城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525114",
+    "name": "川底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140525115",
+    "name": "南岭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "泽州县"
+  },
+  {
+    "code": "140581001",
+    "name": "北城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581002",
+    "name": "东城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581003",
+    "name": "南城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581101",
+    "name": "米山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581102",
+    "name": "三甲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581103",
+    "name": "神农镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581104",
+    "name": "陈区镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581105",
+    "name": "北诗镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581106",
+    "name": "河西镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581107",
+    "name": "马村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581108",
+    "name": "野川镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581109",
+    "name": "寺庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581201",
+    "name": "建宁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581202",
+    "name": "石末乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140581203",
+    "name": "原村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "高平市"
+  },
+  {
+    "code": "140602001",
+    "name": "北城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602002",
+    "name": "南城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602003",
+    "name": "神头街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602004",
+    "name": "北旺庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602100",
+    "name": "神头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602101",
+    "name": "利民镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602200",
+    "name": "下团堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602201",
+    "name": "小平易乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602202",
+    "name": "滋润乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602204",
+    "name": "南榆林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602205",
+    "name": "贾庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602206",
+    "name": "沙塄河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602207",
+    "name": "窑子头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140602208",
+    "name": "张蔡庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "朔城区"
+  },
+  {
+    "code": "140603100",
+    "name": "井坪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603101",
+    "name": "凤凰城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603200",
+    "name": "白堂乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603201",
+    "name": "陶村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603202",
+    "name": "下水头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603203",
+    "name": "双碾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603204",
+    "name": "阻虎乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603205",
+    "name": "高石庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603206",
+    "name": "西水界乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603207",
+    "name": "下面高乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603209",
+    "name": "向阳堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140603210",
+    "name": "榆岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "平鲁区"
+  },
+  {
+    "code": "140621100",
+    "name": "玉井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621101",
+    "name": "北周庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621102",
+    "name": "古城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621103",
+    "name": "岱岳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621104",
+    "name": "广武镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621200",
+    "name": "吴马营乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621201",
+    "name": "马营乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621202",
+    "name": "下喇叭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621203",
+    "name": "合盛堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621205",
+    "name": "安荣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621206",
+    "name": "薛圐圙乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140621209",
+    "name": "马营庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山阴县"
+  },
+  {
+    "code": "140622100",
+    "name": "金城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622101",
+    "name": "南河种镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622102",
+    "name": "下社镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622200",
+    "name": "镇子梁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622201",
+    "name": "义井乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622202",
+    "name": "臧寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622203",
+    "name": "大黄巍乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622204",
+    "name": "杏寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622205",
+    "name": "下马峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622206",
+    "name": "南泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622207",
+    "name": "大临河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140622208",
+    "name": "白马石乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "应县"
+  },
+  {
+    "code": "140623100",
+    "name": "新城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623101",
+    "name": "右卫镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623102",
+    "name": "威远镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623103",
+    "name": "元堡子镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623200",
+    "name": "牛心堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623202",
+    "name": "高家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623204",
+    "name": "杨千河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140623205",
+    "name": "李达窑乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "右玉县"
+  },
+  {
+    "code": "140671400",
+    "name": "山西朔州经济开发区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "山西朔州经济开发区"
+  },
+  {
+    "code": "140681001",
+    "name": "云东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681002",
+    "name": "云中街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681003",
+    "name": "云西街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681101",
+    "name": "吴家窑镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681102",
+    "name": "金沙滩镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681103",
+    "name": "毛家皂镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681200",
+    "name": "何家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681201",
+    "name": "新家园乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681202",
+    "name": "亲和乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681203",
+    "name": "海北头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681205",
+    "name": "河头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681500",
+    "name": "金沙滩农牧场",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140681501",
+    "name": "金沙滩林场",
+    "aliases": [],
+    "province": "山西省",
+    "city": "朔州市",
+    "district": "怀仁市"
+  },
+  {
+    "code": "140702001",
+    "name": "北关街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702002",
+    "name": "锦纶街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702003",
+    "name": "新华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702004",
+    "name": "西南街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702005",
+    "name": "路西街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702006",
+    "name": "经纬街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702007",
+    "name": "安宁街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702008",
+    "name": "新建街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702009",
+    "name": "晋华街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702100",
+    "name": "乌金山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702101",
+    "name": "东阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702103",
+    "name": "长凝镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702104",
+    "name": "北田镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702105",
+    "name": "修文镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702200",
+    "name": "郭家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702201",
+    "name": "张庆乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702202",
+    "name": "庄子乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702203",
+    "name": "东赵乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702401",
+    "name": "山西转型综合改革示范区晋中开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140702402",
+    "name": "榆次区使赵乡社会事务服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆次区"
+  },
+  {
+    "code": "140703101",
+    "name": "胡村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703102",
+    "name": "范村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703103",
+    "name": "水秀镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703200",
+    "name": "侯城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703201",
+    "name": "北洸乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703203",
+    "name": "阳邑乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703204",
+    "name": "小白乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703205",
+    "name": "任村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703401",
+    "name": "白塔区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703402",
+    "name": "北城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140703403",
+    "name": "南城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "太谷区"
+  },
+  {
+    "code": "140721100",
+    "name": "箕城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721101",
+    "name": "云簇镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721102",
+    "name": "郝北镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721103",
+    "name": "社城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721200",
+    "name": "河峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721201",
+    "name": "北寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721202",
+    "name": "西马乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140721400",
+    "name": "城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "榆社县"
+  },
+  {
+    "code": "140722100",
+    "name": "辽阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722101",
+    "name": "桐峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722102",
+    "name": "麻田镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722103",
+    "name": "芹泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722104",
+    "name": "拐儿镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722200",
+    "name": "寒王乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722201",
+    "name": "石匣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722204",
+    "name": "羊角乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140722400",
+    "name": "城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "左权县"
+  },
+  {
+    "code": "140723100",
+    "name": "义兴镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723101",
+    "name": "李阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723102",
+    "name": "松烟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723103",
+    "name": "青城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723104",
+    "name": "横岭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723200",
+    "name": "喂马乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723201",
+    "name": "平松乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723203",
+    "name": "马坊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140723400",
+    "name": "城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "和顺县"
+  },
+  {
+    "code": "140724100",
+    "name": "乐平镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724101",
+    "name": "皋落镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724102",
+    "name": "冶头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724103",
+    "name": "沾尚镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724104",
+    "name": "大寨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724200",
+    "name": "李家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724201",
+    "name": "界都乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724202",
+    "name": "三都乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724203",
+    "name": "赵壁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724204",
+    "name": "孔氏乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140724400",
+    "name": "城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "昔阳县"
+  },
+  {
+    "code": "140725100",
+    "name": "朝阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725101",
+    "name": "南燕竹镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725102",
+    "name": "宗艾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725103",
+    "name": "平头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725104",
+    "name": "松塔镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725105",
+    "name": "西洛镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725106",
+    "name": "尹灵芝镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725200",
+    "name": "平舒乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725201",
+    "name": "解愁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725202",
+    "name": "温家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725203",
+    "name": "景尚乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140725205",
+    "name": "羊头崖乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "寿阳县"
+  },
+  {
+    "code": "140727100",
+    "name": "昭馀镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727101",
+    "name": "东观镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727102",
+    "name": "古县镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727103",
+    "name": "贾令镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727104",
+    "name": "城赵镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727105",
+    "name": "来远镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727201",
+    "name": "峪口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727400",
+    "name": "祁县经济开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140727404",
+    "name": "城区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "祁县"
+  },
+  {
+    "code": "140728001",
+    "name": "古城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728002",
+    "name": "城东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728003",
+    "name": "城西街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728100",
+    "name": "古陶镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728101",
+    "name": "段村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728102",
+    "name": "东泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728103",
+    "name": "洪善镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728104",
+    "name": "宁固镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728200",
+    "name": "南政乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728201",
+    "name": "中都乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728202",
+    "name": "岳壁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728203",
+    "name": "卜宜乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728205",
+    "name": "朱坑乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728206",
+    "name": "襄垣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728207",
+    "name": "杜家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140728208",
+    "name": "香乐乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "平遥县"
+  },
+  {
+    "code": "140729100",
+    "name": "翠峰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729101",
+    "name": "静升镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729102",
+    "name": "两渡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729103",
+    "name": "夏门镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729104",
+    "name": "南关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729105",
+    "name": "段纯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729202",
+    "name": "王禹乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729203",
+    "name": "坛镇乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729204",
+    "name": "梁家焉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729205",
+    "name": "交口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140729403",
+    "name": "灵石县城区社会事务服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "灵石县"
+  },
+  {
+    "code": "140781001",
+    "name": "北关街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781002",
+    "name": "西关街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781003",
+    "name": "东南街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781004",
+    "name": "西南街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781005",
+    "name": "北坛街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781100",
+    "name": "义安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781101",
+    "name": "张兰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781102",
+    "name": "连福镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781103",
+    "name": "洪山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781104",
+    "name": "龙凤镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781105",
+    "name": "绵山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781106",
+    "name": "义棠镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781200",
+    "name": "城关乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140781201",
+    "name": "宋古乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "晋中市",
+    "district": "介休市"
+  },
+  {
+    "code": "140802001",
+    "name": "中城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802002",
+    "name": "东城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802003",
+    "name": "西城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802004",
+    "name": "南城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802005",
+    "name": "北城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802006",
+    "name": "安邑街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802007",
+    "name": "大渠街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802008",
+    "name": "姚孟街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802100",
+    "name": "解州镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802101",
+    "name": "龙居镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802102",
+    "name": "北相镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802103",
+    "name": "泓芝驿镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802104",
+    "name": "三路里镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802105",
+    "name": "陶村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802106",
+    "name": "东郭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802200",
+    "name": "席张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802201",
+    "name": "金井乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802202",
+    "name": "王范乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802203",
+    "name": "冯村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802204",
+    "name": "上郭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802205",
+    "name": "上王乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140802404",
+    "name": "运城经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "盐湖区"
+  },
+  {
+    "code": "140821100",
+    "name": "猗氏镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821101",
+    "name": "嵋阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821102",
+    "name": "临晋镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821103",
+    "name": "七级镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821104",
+    "name": "东张镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821105",
+    "name": "孙吉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821106",
+    "name": "三管镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821107",
+    "name": "牛杜镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821108",
+    "name": "耽子镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821109",
+    "name": "角杯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821200",
+    "name": "楚侯乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821201",
+    "name": "庙上乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821203",
+    "name": "北辛乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140821204",
+    "name": "北景乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "临猗县"
+  },
+  {
+    "code": "140822100",
+    "name": "解店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822101",
+    "name": "通化镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822102",
+    "name": "汉薛镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822103",
+    "name": "荣河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822104",
+    "name": "裴庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822105",
+    "name": "高村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822200",
+    "name": "万泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822201",
+    "name": "里望乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822202",
+    "name": "西村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822203",
+    "name": "南张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822205",
+    "name": "皇甫乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822206",
+    "name": "贾村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822207",
+    "name": "王显乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140822208",
+    "name": "光华乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "万荣县"
+  },
+  {
+    "code": "140823100",
+    "name": "桐城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823101",
+    "name": "郭家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823102",
+    "name": "畖底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823103",
+    "name": "薛店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823104",
+    "name": "东镇镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823105",
+    "name": "礼元镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823106",
+    "name": "河底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823107",
+    "name": "阳隅镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823108",
+    "name": "侯村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823109",
+    "name": "裴社镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823204",
+    "name": "后宫乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823205",
+    "name": "石门乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140823400",
+    "name": "闻喜县社区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "闻喜县"
+  },
+  {
+    "code": "140824100",
+    "name": "稷峰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824101",
+    "name": "西社镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824102",
+    "name": "化峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824103",
+    "name": "翟店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824104",
+    "name": "清河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824200",
+    "name": "蔡村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824201",
+    "name": "太阳乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824400",
+    "name": "稷山县社区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140824401",
+    "name": "稷山县经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "稷山县"
+  },
+  {
+    "code": "140825100",
+    "name": "龙兴镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825101",
+    "name": "三泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825102",
+    "name": "泽掌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825103",
+    "name": "北张镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825104",
+    "name": "古交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825105",
+    "name": "万安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825106",
+    "name": "阳王镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825107",
+    "name": "泉掌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825108",
+    "name": "横桥镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825400",
+    "name": "新绛县社区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140825498",
+    "name": "新绛县经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "新绛县"
+  },
+  {
+    "code": "140826100",
+    "name": "古绛镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826101",
+    "name": "横水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826102",
+    "name": "陈村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826103",
+    "name": "卫庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826104",
+    "name": "磨里镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826105",
+    "name": "南樊镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826106",
+    "name": "安峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826107",
+    "name": "大交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826200",
+    "name": "郝庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826201",
+    "name": "冷口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140826402",
+    "name": "山西绛县经济开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "绛县"
+  },
+  {
+    "code": "140827100",
+    "name": "新城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827101",
+    "name": "历山镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827102",
+    "name": "古城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827103",
+    "name": "王茅镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827104",
+    "name": "毛家湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827105",
+    "name": "英言镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827200",
+    "name": "蒲掌乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827202",
+    "name": "解峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827203",
+    "name": "华峰乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827204",
+    "name": "长直乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827205",
+    "name": "皋落乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140827400",
+    "name": "垣曲县社区服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "垣曲县"
+  },
+  {
+    "code": "140828100",
+    "name": "瑶峰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828101",
+    "name": "庙前镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828102",
+    "name": "裴介镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828103",
+    "name": "水头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828104",
+    "name": "埝掌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828105",
+    "name": "泗交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828106",
+    "name": "禹王镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828200",
+    "name": "尉郭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828202",
+    "name": "胡张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828203",
+    "name": "南大里乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140828204",
+    "name": "祁家河乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "夏县"
+  },
+  {
+    "code": "140829100",
+    "name": "圣人涧镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829101",
+    "name": "常乐镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829102",
+    "name": "张店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829103",
+    "name": "张村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829104",
+    "name": "曹川镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829105",
+    "name": "三门镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829106",
+    "name": "部官镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829107",
+    "name": "洪池镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829201",
+    "name": "杜马乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140829400",
+    "name": "平陆县社区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "平陆县"
+  },
+  {
+    "code": "140830100",
+    "name": "古魏镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830101",
+    "name": "风陵渡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830102",
+    "name": "陌南镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830103",
+    "name": "西陌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830104",
+    "name": "永乐镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830105",
+    "name": "大王镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830106",
+    "name": "阳城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830107",
+    "name": "南磑镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830200",
+    "name": "东垆乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830202",
+    "name": "学张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140830402",
+    "name": "山西风陵渡经济开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "芮城县"
+  },
+  {
+    "code": "140881001",
+    "name": "城西街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881002",
+    "name": "城北街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881003",
+    "name": "城东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881100",
+    "name": "虞乡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881101",
+    "name": "卿头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881102",
+    "name": "开张镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881103",
+    "name": "栲栳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881104",
+    "name": "蒲州镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881105",
+    "name": "韩阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881106",
+    "name": "张营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881400",
+    "name": "永济监狱",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881401",
+    "name": "山西省永济虞乡强制隔离戒毒所",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140881402",
+    "name": "山西省永济董村强制隔离戒毒所",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "永济市"
+  },
+  {
+    "code": "140882001",
+    "name": "城区街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882002",
+    "name": "清涧街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882003",
+    "name": "赵家庄街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882004",
+    "name": "阳村街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882100",
+    "name": "樊村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882101",
+    "name": "僧楼镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882102",
+    "name": "柴家镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882200",
+    "name": "小梁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882203",
+    "name": "下化乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140882400",
+    "name": "山西铝厂",
+    "aliases": [],
+    "province": "山西省",
+    "city": "运城市",
+    "district": "河津市"
+  },
+  {
+    "code": "140902001",
+    "name": "秀容街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902002",
+    "name": "长征街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902003",
+    "name": "新建路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902004",
+    "name": "云中路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902005",
+    "name": "九原街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902006",
+    "name": "旭来街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902007",
+    "name": "桥西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902101",
+    "name": "奇村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902102",
+    "name": "三交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902103",
+    "name": "庄磨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902104",
+    "name": "豆罗镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902105",
+    "name": "董村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902106",
+    "name": "西张镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902107",
+    "name": "忻口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902108",
+    "name": "合索镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902206",
+    "name": "兰村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902209",
+    "name": "东楼乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140902210",
+    "name": "北义井乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "忻府区"
+  },
+  {
+    "code": "140921100",
+    "name": "晋昌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921101",
+    "name": "河边镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921102",
+    "name": "宏道镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921103",
+    "name": "季庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921104",
+    "name": "蒋村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921201",
+    "name": "南王乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921203",
+    "name": "神山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921205",
+    "name": "受禄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140921400",
+    "name": "定襄县居民办事处",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "定襄县"
+  },
+  {
+    "code": "140922100",
+    "name": "台城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922102",
+    "name": "耿镇镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922103",
+    "name": "豆村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922104",
+    "name": "白家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922105",
+    "name": "东冶镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922107",
+    "name": "建安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922200",
+    "name": "沟南乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922201",
+    "name": "东雷乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922202",
+    "name": "高洪口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922203",
+    "name": "门限石乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922204",
+    "name": "陈家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922207",
+    "name": "蒋坊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922209",
+    "name": "阳白乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140922210",
+    "name": "茹村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台县"
+  },
+  {
+    "code": "140923100",
+    "name": "上馆镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923101",
+    "name": "阳明堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923102",
+    "name": "峨口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923103",
+    "name": "聂营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923104",
+    "name": "枣林镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923106",
+    "name": "雁门关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923107",
+    "name": "峪口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923200",
+    "name": "新高乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923202",
+    "name": "上磨坊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140923400",
+    "name": "代县党群服务中心",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "代县"
+  },
+  {
+    "code": "140924100",
+    "name": "繁城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924101",
+    "name": "砂河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924102",
+    "name": "大营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924103",
+    "name": "平型关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924200",
+    "name": "下茹越乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924202",
+    "name": "光裕堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924203",
+    "name": "集义庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924204",
+    "name": "东山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924205",
+    "name": "金山铺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924208",
+    "name": "神堂堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140924209",
+    "name": "岩头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "繁峙县"
+  },
+  {
+    "code": "140925100",
+    "name": "凤凰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925101",
+    "name": "阳方口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925102",
+    "name": "东寨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925103",
+    "name": "石家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925104",
+    "name": "宁化镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925200",
+    "name": "薛家洼乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925201",
+    "name": "余庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925202",
+    "name": "涔山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925204",
+    "name": "西马坊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925206",
+    "name": "迭台寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925208",
+    "name": "怀道乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925209",
+    "name": "东马坊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925400",
+    "name": "阳方口煤矿",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140925401",
+    "name": "宁武县居民办事处",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "宁武县"
+  },
+  {
+    "code": "140926100",
+    "name": "鹅城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926101",
+    "name": "杜家村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926102",
+    "name": "康家会镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926103",
+    "name": "丰润镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926104",
+    "name": "双路镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926105",
+    "name": "王村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926204",
+    "name": "段家寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926205",
+    "name": "辛村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926207",
+    "name": "神峪沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926208",
+    "name": "娘子神乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926209",
+    "name": "娑婆乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926210",
+    "name": "赤泥窊乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140926400",
+    "name": "静乐县居民办事处",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "静乐县"
+  },
+  {
+    "code": "140927100",
+    "name": "龙泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927101",
+    "name": "义井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927102",
+    "name": "八角镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927200",
+    "name": "东湖乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927203",
+    "name": "贺职乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927204",
+    "name": "长畛乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927205",
+    "name": "烈堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140927206",
+    "name": "大严备乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "神池县"
+  },
+  {
+    "code": "140928100",
+    "name": "砚城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928101",
+    "name": "小河头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928102",
+    "name": "三岔镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928200",
+    "name": "前所乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928201",
+    "name": "李家坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928202",
+    "name": "孙家坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928204",
+    "name": "胡会乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928206",
+    "name": "韩家楼乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928207",
+    "name": "东秀庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140928208",
+    "name": "杏岭子乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五寨县"
+  },
+  {
+    "code": "140929100",
+    "name": "岚漪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929101",
+    "name": "三井镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929102",
+    "name": "宋家沟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929201",
+    "name": "高家会乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929202",
+    "name": "李家沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929203",
+    "name": "水峪贯乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929204",
+    "name": "西豹峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929205",
+    "name": "温泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929206",
+    "name": "阳坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929207",
+    "name": "大涧乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140929400",
+    "name": "岢岚县居民办事处",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "岢岚县"
+  },
+  {
+    "code": "140930100",
+    "name": "西口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930101",
+    "name": "楼子营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930102",
+    "name": "刘家塔镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930103",
+    "name": "巡镇镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930104",
+    "name": "旧县镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930105",
+    "name": "沙泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930200",
+    "name": "鹿固乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930202",
+    "name": "单寨乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930203",
+    "name": "土沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930205",
+    "name": "沙坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140930206",
+    "name": "社梁乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "河曲县"
+  },
+  {
+    "code": "140931100",
+    "name": "东关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931101",
+    "name": "义门镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931102",
+    "name": "桥头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931103",
+    "name": "杨家湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931104",
+    "name": "孙家沟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931200",
+    "name": "腰庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931201",
+    "name": "韩家川乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931202",
+    "name": "林遮峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931203",
+    "name": "冯家川乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931204",
+    "name": "土崖塔乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140931208",
+    "name": "南河沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "保德县"
+  },
+  {
+    "code": "140932100",
+    "name": "新关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932102",
+    "name": "老营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932103",
+    "name": "万家寨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932104",
+    "name": "水泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932105",
+    "name": "老牛湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932106",
+    "name": "尚峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932200",
+    "name": "窑头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140932201",
+    "name": "楼沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "偏关县"
+  },
+  {
+    "code": "140971100",
+    "name": "台怀镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台山风景名胜区"
+  },
+  {
+    "code": "140971101",
+    "name": "石咀镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台山风景名胜区"
+  },
+  {
+    "code": "140971200",
+    "name": "金岗库乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "五台山风景名胜区"
+  },
+  {
+    "code": "140981001",
+    "name": "北城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981002",
+    "name": "南城街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981004",
+    "name": "新原街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981005",
+    "name": "吉祥街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981101",
+    "name": "苏龙口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981102",
+    "name": "崞阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981103",
+    "name": "大牛店镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981104",
+    "name": "闫庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981106",
+    "name": "轩岗镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981107",
+    "name": "云水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981108",
+    "name": "同川镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981202",
+    "name": "子干乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981203",
+    "name": "中阳乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981204",
+    "name": "沿沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981205",
+    "name": "大林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981206",
+    "name": "西镇乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981208",
+    "name": "王家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981210",
+    "name": "段家堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981400",
+    "name": "山西鲁能晋北铝业工矿区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981401",
+    "name": "原平市石豹沟煤矿工矿区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981403",
+    "name": "原平农场",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "140981404",
+    "name": "原平经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "忻州市",
+    "district": "原平市"
+  },
+  {
+    "code": "141002001",
+    "name": "解放路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002002",
+    "name": "鼓楼西街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002003",
+    "name": "水塔街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002004",
+    "name": "南街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002005",
+    "name": "乡贤街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002006",
+    "name": "辛寺街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002007",
+    "name": "铁路东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002008",
+    "name": "车站街街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002009",
+    "name": "汾河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002010",
+    "name": "滨河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002100",
+    "name": "屯里镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002101",
+    "name": "乔李镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002102",
+    "name": "大阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002103",
+    "name": "县底镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002104",
+    "name": "刘村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002105",
+    "name": "金殿镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002106",
+    "name": "吴村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002107",
+    "name": "土门镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002108",
+    "name": "魏村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002109",
+    "name": "尧庙镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002200",
+    "name": "段店乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002201",
+    "name": "贾得乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002203",
+    "name": "一平垣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002204",
+    "name": "枕头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141002401",
+    "name": "临汾经济开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "尧都区"
+  },
+  {
+    "code": "141021100",
+    "name": "乐昌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021101",
+    "name": "史村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021102",
+    "name": "曲村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021103",
+    "name": "高显镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021104",
+    "name": "里村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021200",
+    "name": "北董乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141021201",
+    "name": "杨谈乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "曲沃县"
+  },
+  {
+    "code": "141022100",
+    "name": "唐兴镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022101",
+    "name": "南梁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022102",
+    "name": "里砦镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022103",
+    "name": "隆化镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022104",
+    "name": "桥上镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022105",
+    "name": "西阎镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022106",
+    "name": "王庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022200",
+    "name": "中卫乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141022201",
+    "name": "南唐乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "翼城县"
+  },
+  {
+    "code": "141023100",
+    "name": "新城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023101",
+    "name": "赵康镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023102",
+    "name": "汾城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023103",
+    "name": "南贾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023104",
+    "name": "古城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023105",
+    "name": "襄陵镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023106",
+    "name": "邓庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023200",
+    "name": "陶寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023201",
+    "name": "永固乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023202",
+    "name": "景毛乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023203",
+    "name": "西贾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023204",
+    "name": "南辛店乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141023205",
+    "name": "大邓乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "襄汾县"
+  },
+  {
+    "code": "141024100",
+    "name": "大槐树镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024101",
+    "name": "甘亭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024102",
+    "name": "曲亭镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024103",
+    "name": "苏堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024104",
+    "name": "广胜寺镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024105",
+    "name": "明姜镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024106",
+    "name": "赵城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024107",
+    "name": "万安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024108",
+    "name": "刘家垣镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024109",
+    "name": "辛村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024200",
+    "name": "淹底乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024201",
+    "name": "兴唐寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024202",
+    "name": "堤村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024204",
+    "name": "龙马乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141024207",
+    "name": "山目乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "洪洞县"
+  },
+  {
+    "code": "141025100",
+    "name": "岳阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141025101",
+    "name": "北平镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141025102",
+    "name": "古阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141025103",
+    "name": "旧县镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141025104",
+    "name": "三合镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141025202",
+    "name": "南垣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "古县"
+  },
+  {
+    "code": "141026100",
+    "name": "府城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141026101",
+    "name": "和川镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141026102",
+    "name": "唐城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141026103",
+    "name": "冀氏镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141026104",
+    "name": "良马镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141026105",
+    "name": "马壁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "安泽县"
+  },
+  {
+    "code": "141027100",
+    "name": "天坛镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027101",
+    "name": "响水河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027102",
+    "name": "张庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027103",
+    "name": "北王镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027201",
+    "name": "东张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027202",
+    "name": "槐埝乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141027206",
+    "name": "寨圪塔乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "浮山县"
+  },
+  {
+    "code": "141028100",
+    "name": "吉昌镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028101",
+    "name": "屯里镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028102",
+    "name": "壶口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028200",
+    "name": "车城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028201",
+    "name": "文城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028203",
+    "name": "柏山寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141028204",
+    "name": "中垛乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "吉县"
+  },
+  {
+    "code": "141029100",
+    "name": "昌宁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029101",
+    "name": "光华镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029102",
+    "name": "台头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029103",
+    "name": "管头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029104",
+    "name": "西坡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029200",
+    "name": "双鹤乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029201",
+    "name": "关王庙乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029202",
+    "name": "尉庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029203",
+    "name": "西交口乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141029204",
+    "name": "枣岭乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "乡宁县"
+  },
+  {
+    "code": "141030100",
+    "name": "昕水镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "大宁县"
+  },
+  {
+    "code": "141030101",
+    "name": "曲峨镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "大宁县"
+  },
+  {
+    "code": "141030102",
+    "name": "太古镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "大宁县"
+  },
+  {
+    "code": "141030200",
+    "name": "三多乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "大宁县"
+  },
+  {
+    "code": "141030201",
+    "name": "太德乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "大宁县"
+  },
+  {
+    "code": "141031100",
+    "name": "龙泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031101",
+    "name": "午城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031102",
+    "name": "黄土镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031200",
+    "name": "阳头升乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031201",
+    "name": "寨子乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031203",
+    "name": "下李乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141031204",
+    "name": "城南乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "隰县"
+  },
+  {
+    "code": "141032100",
+    "name": "芝河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141032101",
+    "name": "桑壁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141032203",
+    "name": "坡头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141032205",
+    "name": "乾坤湾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141032206",
+    "name": "望海寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141032207",
+    "name": "楼山乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "永和县"
+  },
+  {
+    "code": "141033100",
+    "name": "蒲城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033101",
+    "name": "薛关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033102",
+    "name": "黑龙关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033103",
+    "name": "克城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033104",
+    "name": "乔家湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033200",
+    "name": "山中乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033201",
+    "name": "古县乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141033204",
+    "name": "太林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "蒲县"
+  },
+  {
+    "code": "141034100",
+    "name": "永安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034101",
+    "name": "对竹镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034102",
+    "name": "勍香镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034103",
+    "name": "和平镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034104",
+    "name": "僧念镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034200",
+    "name": "佃坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141034201",
+    "name": "团柏乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "汾西县"
+  },
+  {
+    "code": "141081001",
+    "name": "路东街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081002",
+    "name": "路西街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081003",
+    "name": "浍滨街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081004",
+    "name": "上马街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081005",
+    "name": "张村街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081200",
+    "name": "新田乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081201",
+    "name": "高村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141081202",
+    "name": "凤城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "侯马市"
+  },
+  {
+    "code": "141082001",
+    "name": "鼓楼街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082002",
+    "name": "北环路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082003",
+    "name": "南环路街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082004",
+    "name": "开元街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082005",
+    "name": "退沙街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082100",
+    "name": "白龙镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082101",
+    "name": "辛置镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082102",
+    "name": "大张镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082103",
+    "name": "李曹镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082200",
+    "name": "陶唐峪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082201",
+    "name": "三教乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141082202",
+    "name": "师庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "临汾市",
+    "district": "霍州市"
+  },
+  {
+    "code": "141102001",
+    "name": "滨河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102002",
+    "name": "凤山街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102003",
+    "name": "莲花池街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102004",
+    "name": "城北街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102005",
+    "name": "田家会街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102006",
+    "name": "交口街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102007",
+    "name": "西属巴街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102100",
+    "name": "吴城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102101",
+    "name": "信义镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102201",
+    "name": "枣林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141102202",
+    "name": "坪头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "离石区"
+  },
+  {
+    "code": "141121100",
+    "name": "凤城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121101",
+    "name": "开栅镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121102",
+    "name": "南庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121103",
+    "name": "南安镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121104",
+    "name": "刘胡兰镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121105",
+    "name": "下曲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121106",
+    "name": "孝义镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121200",
+    "name": "南武乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121201",
+    "name": "西城乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121202",
+    "name": "北张乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121203",
+    "name": "马西乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141121204",
+    "name": "西槽头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "文水县"
+  },
+  {
+    "code": "141122100",
+    "name": "天宁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122101",
+    "name": "夏家营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122102",
+    "name": "西营镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122103",
+    "name": "水峪贯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122104",
+    "name": "西社镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122105",
+    "name": "庞泉沟镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122106",
+    "name": "洪相镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122202",
+    "name": "东坡底乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141122400",
+    "name": "夏家营生态工业园区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交城县"
+  },
+  {
+    "code": "141123100",
+    "name": "蔚汾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123101",
+    "name": "魏家滩镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123102",
+    "name": "瓦塘镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123103",
+    "name": "康宁镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123104",
+    "name": "高家村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123105",
+    "name": "罗峪口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123106",
+    "name": "蔡家会镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123200",
+    "name": "交楼申乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123202",
+    "name": "东会乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123203",
+    "name": "固贤乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123204",
+    "name": "奥家湾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123205",
+    "name": "蔡家崖乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123207",
+    "name": "孟家坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123208",
+    "name": "赵家坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123209",
+    "name": "圪垯上乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141123400",
+    "name": "兴县经济技术开发区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "兴县"
+  },
+  {
+    "code": "141124100",
+    "name": "临泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124101",
+    "name": "白文镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124102",
+    "name": "城庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124103",
+    "name": "兔坂镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124104",
+    "name": "克虎镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124105",
+    "name": "三交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124106",
+    "name": "湍水头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124107",
+    "name": "林家坪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124108",
+    "name": "招贤镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124109",
+    "name": "碛口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124110",
+    "name": "刘家会镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124111",
+    "name": "丛罗峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124112",
+    "name": "曲峪镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124200",
+    "name": "木瓜坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124201",
+    "name": "安业乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124202",
+    "name": "玉坪乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124203",
+    "name": "青凉寺乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124204",
+    "name": "石白头乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124205",
+    "name": "雷家碛乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124206",
+    "name": "八堡乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124207",
+    "name": "大禹乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124208",
+    "name": "车赶乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141124209",
+    "name": "安家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "临县"
+  },
+  {
+    "code": "141125100",
+    "name": "柳林镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125101",
+    "name": "穆村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125102",
+    "name": "薛村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125103",
+    "name": "庄上镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125104",
+    "name": "留誉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125105",
+    "name": "三交镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125106",
+    "name": "成家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125107",
+    "name": "孟门镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125108",
+    "name": "陈家湾镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125109",
+    "name": "金家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125200",
+    "name": "李家湾乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125201",
+    "name": "贾家垣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125204",
+    "name": "高家沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125205",
+    "name": "石西乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141125206",
+    "name": "王家沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "柳林县"
+  },
+  {
+    "code": "141126100",
+    "name": "灵泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126101",
+    "name": "罗村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126102",
+    "name": "义牒镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126103",
+    "name": "小蒜镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126104",
+    "name": "辛关镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126200",
+    "name": "龙交乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126201",
+    "name": "和合乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126203",
+    "name": "曹家垣乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141126204",
+    "name": "裴沟乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "石楼县"
+  },
+  {
+    "code": "141127100",
+    "name": "东村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127101",
+    "name": "岚城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127102",
+    "name": "普明镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127103",
+    "name": "界河口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127201",
+    "name": "上明乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127202",
+    "name": "王狮乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127203",
+    "name": "梁家庄乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127204",
+    "name": "顺会乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127206",
+    "name": "社科乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141127400",
+    "name": "岚县普明工业园区",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "岚县"
+  },
+  {
+    "code": "141128100",
+    "name": "圪洞镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141128101",
+    "name": "马坊镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141128102",
+    "name": "峪口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141128103",
+    "name": "大武镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141128104",
+    "name": "北武当镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141128105",
+    "name": "积翠镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "方山县"
+  },
+  {
+    "code": "141129100",
+    "name": "宁乡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141129101",
+    "name": "金罗镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141129102",
+    "name": "枝柯镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141129103",
+    "name": "武家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141129104",
+    "name": "暖泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141129201",
+    "name": "下枣林乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "中阳县"
+  },
+  {
+    "code": "141130100",
+    "name": "水头镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130101",
+    "name": "康城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130102",
+    "name": "双池镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130103",
+    "name": "桃红坡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130104",
+    "name": "石口镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130105",
+    "name": "回龙镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141130202",
+    "name": "温泉乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "交口县"
+  },
+  {
+    "code": "141181001",
+    "name": "新义街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181002",
+    "name": "中阳楼街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181003",
+    "name": "振兴街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181004",
+    "name": "胜溪湖街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181005",
+    "name": "崇文街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181100",
+    "name": "兑镇镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181101",
+    "name": "阳泉曲镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181102",
+    "name": "下堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181103",
+    "name": "西辛庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181104",
+    "name": "高阳镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181105",
+    "name": "梧桐镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181106",
+    "name": "柱濮镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181107",
+    "name": "大孝堡镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181201",
+    "name": "下栅乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181202",
+    "name": "驿马乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141181204",
+    "name": "杜村乡",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "孝义市"
+  },
+  {
+    "code": "141182001",
+    "name": "文峰街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182002",
+    "name": "太和桥街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182003",
+    "name": "西河街道",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182100",
+    "name": "贾家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182101",
+    "name": "杏花村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182102",
+    "name": "冀村镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182103",
+    "name": "肖家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182104",
+    "name": "演武镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182105",
+    "name": "三泉镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182106",
+    "name": "石庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182107",
+    "name": "杨家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182108",
+    "name": "峪道河镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182109",
+    "name": "阳城镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  },
+  {
+    "code": "141182110",
+    "name": "栗家庄镇",
+    "aliases": [],
+    "province": "山西省",
+    "city": "吕梁市",
+    "district": "汾阳市"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "霍尔果斯口岸",
+    "aliases": [
+      "霍尔果斯"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "district": "霍尔果斯市",
+    "type": "口岸"
+  },
+  {
+    "name": "阿拉山口口岸",
+    "aliases": [
+      "阿拉山口"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉蒙古自治州",
+    "district": "阿拉山口市",
+    "type": "口岸"
+  },
+  {
+    "name": "巴克图口岸",
+    "aliases": [
+      "巴克图"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "塔城地区",
+    "district": "塔城市",
+    "type": "口岸"
+  },
+  {
+    "name": "吉木乃口岸",
+    "aliases": [
+      "吉木乃"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "district": "吉木乃县",
+    "type": "口岸"
+  },
+  {
+    "name": "红其拉甫口岸",
+    "aliases": [
+      "红其拉甫"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "district": "塔什库尔干塔吉克自治县",
+    "type": "口岸"
+  },
+  {
+    "name": "吐尔尕特口岸",
+    "aliases": [
+      "吐尔尕特"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "克孜勒苏柯尔克孜自治州",
+    "district": "乌恰县",
+    "type": "口岸"
+  },
+  {
+    "name": "伊尔克什坦口岸",
+    "aliases": [
+      "伊尔克什坦"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "克孜勒苏柯尔克孜自治州",
+    "district": "乌恰县",
+    "type": "口岸"
+  },
+  {
+    "name": "塔克什肯口岸",
+    "aliases": [
+      "塔克什肯"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "district": "青河县",
+    "type": "口岸"
+  },
+  {
+    "name": "都拉塔口岸",
+    "aliases": [
+      "都拉塔"
+    ],
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "district": "察布查尔锡伯自治县",
+    "type": "口岸"
+  },
+  {
+    "name": "满洲里口岸",
+    "aliases": [
+      "满洲里"
+    ],
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "district": "满洲里市",
+    "type": "口岸"
+  },
+  {
+    "name": "二连浩特口岸",
+    "aliases": [
+      "二连浩特"
+    ],
+    "province": "内蒙古自治区",
+    "city": "锡林郭勒盟",
+    "district": "二连浩特市",
+    "type": "口岸"
+  },
+  {
+    "name": "甘其毛都口岸",
+    "aliases": [
+      "甘其毛都"
+    ],
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "district": "乌拉特中旗",
+    "type": "口岸"
+  },
+  {
+    "name": "策克口岸",
+    "aliases": [
+      "策克"
+    ],
+    "province": "内蒙古自治区",
+    "city": "阿拉善盟",
+    "district": "额济纳旗",
+    "type": "口岸"
+  },
+  {
+    "name": "满都拉口岸",
+    "aliases": [
+      "满都拉"
+    ],
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "district": "达尔罕茂明安联合旗",
+    "type": "口岸"
+  },
+  {
+    "name": "珠恩嘎达布其口岸",
+    "aliases": [
+      "珠恩嘎达布其"
+    ],
+    "province": "内蒙古自治区",
+    "city": "锡林郭勒盟",
+    "district": "东乌珠穆沁旗",
+    "type": "口岸"
+  },
+  {
+    "name": "黑河口岸",
+    "aliases": [
+      "黑河"
+    ],
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "district": "爱辉区",
+    "type": "口岸"
+  },
+  {
+    "name": "绥芬河口岸",
+    "aliases": [
+      "绥芬河"
+    ],
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "district": "绥芬河市",
+    "type": "口岸"
+  },
+  {
+    "name": "东宁口岸",
+    "aliases": [
+      "东宁"
+    ],
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "district": "东宁市",
+    "type": "口岸"
+  },
+  {
+    "name": "同江口岸",
+    "aliases": [
+      "同江"
+    ],
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "district": "同江市",
+    "type": "口岸"
+  },
+  {
+    "name": "抚远口岸",
+    "aliases": [
+      "抚远"
+    ],
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "district": "抚远市",
+    "type": "口岸"
+  },
+  {
+    "name": "珲春口岸",
+    "aliases": [
+      "珲春"
+    ],
+    "province": "吉林省",
+    "city": "延边朝鲜族自治州",
+    "district": "珲春市",
+    "type": "口岸"
+  },
+  {
+    "name": "丹东口岸",
+    "aliases": [
+      "丹东"
+    ],
+    "province": "辽宁省",
+    "city": "丹东市",
+    "district": "振兴区",
+    "type": "口岸"
+  },
+  {
+    "name": "友谊关口岸",
+    "aliases": [
+      "友谊关"
+    ],
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "district": "凭祥市",
+    "type": "口岸"
+  },
+  {
+    "name": "东兴口岸",
+    "aliases": [
+      "东兴"
+    ],
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "district": "东兴市",
+    "type": "口岸"
+  },
+  {
+    "name": "水口口岸",
+    "aliases": [
+      "水口"
+    ],
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "district": "龙州县",
+    "type": "口岸"
+  },
+  {
+    "name": "龙邦口岸",
+    "aliases": [
+      "龙邦"
+    ],
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "district": "靖西市",
+    "type": "口岸"
+  },
+  {
+    "name": "平孟口岸",
+    "aliases": [
+      "平孟"
+    ],
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "district": "那坡县",
+    "type": "口岸"
+  },
+  {
+    "name": "爱店口岸",
+    "aliases": [
+      "爱店"
+    ],
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "district": "宁明县",
+    "type": "口岸"
+  },
+  {
+    "name": "磨憨口岸",
+    "aliases": [
+      "磨憨"
+    ],
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "district": "勐腊县",
+    "type": "口岸"
+  },
+  {
+    "name": "河口口岸",
+    "aliases": [
+      "河口"
+    ],
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "district": "河口瑶族自治县",
+    "type": "口岸"
+  },
+  {
+    "name": "天保口岸",
+    "aliases": [
+      "天保"
+    ],
+    "province": "云南省",
+    "city": "文山壮族苗族自治州",
+    "district": "麻栗坡县",
+    "type": "口岸"
+  },
+  {
+    "name": "猴桥口岸",
+    "aliases": [
+      "猴桥"
+    ],
+    "province": "云南省",
+    "city": "保山市",
+    "district": "腾冲市",
+    "type": "口岸"
+  },
+  {
+    "name": "瑞丽口岸",
+    "aliases": [
+      "瑞丽"
+    ],
+    "province": "云南省",
+    "city": "德宏傣族景颇族自治州",
+    "district": "瑞丽市",
+    "type": "口岸"
+  },
+  {
+    "name": "畹町口岸",
+    "aliases": [
+      "畹町"
+    ],
+    "province": "云南省",
+    "city": "德宏傣族景颇族自治州",
+    "district": "瑞丽市",
+    "type": "口岸"
+  },
+  {
+    "name": "清水河口岸",
+    "aliases": [
+      "清水河"
+    ],
+    "province": "云南省",
+    "city": "临沧市",
+    "district": "耿马傣族佤族自治县",
+    "type": "口岸"
+  },
+  {
+    "name": "打洛口岸",
+    "aliases": [
+      "打洛"
+    ],
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "district": "勐海县",
+    "type": "口岸"
+  },
+  {
+    "name": "吉隆口岸",
+    "aliases": [
+      "吉隆"
+    ],
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "district": "吉隆县",
+    "type": "口岸"
+  },
+  {
+    "name": "樟木口岸",
+    "aliases": [
+      "樟木"
+    ],
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "district": "聂拉木县",
+    "type": "口岸"
+  },
+  {
+    "name": "普兰口岸",
+    "aliases": [
+      "普兰"
+    ],
+    "province": "西藏自治区",
+    "city": "阿里地区",
+    "district": "普兰县",
+    "type": "口岸"
+  },
+  {
+    "name": "日屋口岸",
+    "aliases": [
+      "日屋"
+    ],
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "district": "康马县",
+    "type": "口岸"
+  }
+]

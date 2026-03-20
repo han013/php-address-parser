@@ -1,0 +1,9 @@
+{
+  "source": "data/raw/data.sqlite",
+  "provinces": 31,
+  "cities": 342,
+  "districts": 2978,
+  "townships": 41352,
+  "landmarks": 40,
+  "generatedAt": "2026-03-20T01:34:02.475Z"
+}
