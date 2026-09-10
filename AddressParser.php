@@ -213,67 +213,135 @@ final class AddressParser
 
         if (!empty($matchedProvince)) {
             $cities = is_array($matchedProvince["cities"] ?? null) ? $matchedProvince["cities"] : [];
-            foreach ($cities as $c) {
-                if ($this->hitAny($text, $this->buildCityAliases($c)) !== "") {
-                    $matchedCity = $c;
-                    break;
-                }
+            $bestCity = $this->pickBestAliasMatch($text, $cities, "city");
+            if (!empty($bestCity)) {
+                $matchedCity = $bestCity;
             }
             if (!empty($matchedCity)) {
-                foreach (($matchedCity["districts"] ?? []) as $d) {
-                    if ($this->hitAny($text, $this->buildDistrictAliases($d)) !== "") {
-                        $matchedDistrict = $d;
-                        break;
-                    }
+                $bestDistrict = $this->pickBestAliasMatch(
+                    $text,
+                    is_array($matchedCity["districts"] ?? null) ? $matchedCity["districts"] : [],
+                    "district"
+                );
+                if (!empty($bestDistrict)) {
+                    $matchedDistrict = $bestDistrict;
                 }
             } else {
-                foreach ($cities as $c) {
-                    foreach (($c["districts"] ?? []) as $d) {
-                        if ($this->hitAny($text, $this->buildDistrictAliases($d)) !== "") {
-                            $matchedCity = $c;
-                            $matchedDistrict = $d;
-                            break 2;
-                        }
-                    }
+                $best = $this->pickBestCityDistrictAcrossProvinces($text, [$matchedProvince]);
+                if (!empty($best["city"])) {
+                    $matchedCity = $best["city"];
+                    $matchedDistrict = $best["district"];
                 }
             }
         } else {
-            foreach ($provinces as $p) {
-                foreach (($p["cities"] ?? []) as $c) {
-                    foreach (($c["districts"] ?? []) as $d) {
-                        if ($this->hitAny($text, $this->buildDistrictAliases($d)) !== "") {
-                            $matchedProvince = $p;
-                            $matchedCity = $c;
-                            $matchedDistrict = $d;
-                            break 3;
-                        }
-                    }
-                }
-            }
-
-            if (empty($matchedCity)) {
-                foreach ($provinces as $p) {
-                    foreach (($p["cities"] ?? []) as $c) {
-                        if ($this->hitAny($text, $this->buildCityAliases($c)) !== "") {
-                            $matchedProvince = $p;
-                            $matchedCity = $c;
-                            break 2;
-                        }
-                    }
-                }
+            $best = $this->pickBestCityDistrictAcrossProvinces($text, $provinces);
+            if (!empty($best["province"])) {
+                $matchedProvince = $best["province"];
+                $matchedCity = $best["city"];
+                $matchedDistrict = $best["district"];
             }
         }
 
         if (empty($matchedDistrict) && !empty($matchedCity)) {
-            foreach (($matchedCity["districts"] ?? []) as $d) {
-                if ($this->hitAny($text, $this->buildDistrictAliases($d)) !== "") {
-                    $matchedDistrict = $d;
-                    break;
-                }
+            $bestDistrict = $this->pickBestAliasMatch(
+                $text,
+                is_array($matchedCity["districts"] ?? null) ? $matchedCity["districts"] : [],
+                "district"
+            );
+            if (!empty($bestDistrict)) {
+                $matchedDistrict = $bestDistrict;
             }
         }
 
         return [$matchedProvince, $matchedCity, $matchedDistrict];
+    }
+
+    /**
+     * 无省份时，城市/区县统一按最长别名命中，避免短别名误伤（如「乌兰」误匹配「乌兰察布」）。
+     *
+     * @param array<int, array<string, mixed>> $provinces
+     * @return array{province: array<string, mixed>, city: array<string, mixed>, district: array<string, mixed>}
+     */
+    private function pickBestCityDistrictAcrossProvinces(string $text, array $provinces): array
+    {
+        $best = [
+            "province" => [],
+            "city" => [],
+            "district" => [],
+            "len" => 0,
+            "level" => 0,
+        ];
+
+        foreach ($provinces as $p) {
+            foreach (($p["cities"] ?? []) as $c) {
+                $cityHit = $this->hitAny($text, $this->buildCityAliases($c));
+                if ($cityHit !== "") {
+                    $len = mb_strlen($cityHit);
+                    // level: city=2 > district=1，同长度时优先城市
+                    if ($len > $best["len"] || ($len === $best["len"] && 2 > $best["level"])) {
+                        $best = [
+                            "province" => $p,
+                            "city" => $c,
+                            "district" => [],
+                            "len" => $len,
+                            "level" => 2,
+                        ];
+                    }
+                }
+
+                foreach (($c["districts"] ?? []) as $d) {
+                    $districtHit = $this->hitAny($text, $this->buildDistrictAliases($d));
+                    if ($districtHit === "") {
+                        continue;
+                    }
+                    $len = mb_strlen($districtHit);
+                    if ($len > $best["len"] || ($len === $best["len"] && 1 > $best["level"])) {
+                        $best = [
+                            "province" => $p,
+                            "city" => $c,
+                            "district" => $d,
+                            "len" => $len,
+                            "level" => 1,
+                        ];
+                    }
+                }
+            }
+        }
+
+        return [
+            "province" => $best["province"],
+            "city" => $best["city"],
+            "district" => $best["district"],
+        ];
+    }
+
+    /**
+     * @param array<int, array<string, mixed>> $items
+     * @param "city"|"district" $type
+     * @return array<string, mixed>
+     */
+    private function pickBestAliasMatch(string $text, array $items, string $type): array
+    {
+        $best = [];
+        $bestLen = 0;
+        foreach ($items as $item) {
+            if (!is_array($item)) {
+                continue;
+            }
+            $aliases = $type === "city"
+                ? $this->buildCityAliases($item)
+                : $this->buildDistrictAliases($item);
+            $hit = $this->hitAny($text, $aliases);
+            if ($hit === "") {
+                continue;
+            }
+            $len = mb_strlen($hit);
+            if ($len > $bestLen) {
+                $best = $item;
+                $bestLen = $len;
+            }
+        }
+        return $best;
     }
 
     private function normalizeText(string $text): string
