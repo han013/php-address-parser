@@ -14,6 +14,31 @@ final class AddressParser
     private const GENERIC_TOWNSHIP_NAMES = ["街道", "镇", "乡", "地区"];
     private const DIRECT_CONTROLLED_MUNICIPALITIES = ["北京市", "上海市", "天津市", "重庆市"];
     private const TOWNSHIP_AMBIGUOUS_SHORTS = ["口岸"];
+    /** 民族自治州名称中的民族后缀，用于生成日常短名（如 伊犁哈萨克自治州 → 伊犁） */
+    private const ETHNIC_AUTONOMOUS_SUFFIXES = [
+        "土家族苗族",
+        "布依族苗族",
+        "苗族侗族",
+        "壮族苗族",
+        "藏族羌族",
+        "哈尼族彝族",
+        "傣族景颇族",
+        "蒙古族藏族",
+        "朝鲜族",
+        "傈僳族",
+        "哈尼族",
+        "景颇族",
+        "柯尔克孜",
+        "哈萨克",
+        "蒙古族",
+        "蒙古",
+        "回族",
+        "藏族",
+        "彝族",
+        "傣族",
+        "白族",
+        "羌族",
+    ];
 
     private string $regionDir;
     private array $pcd = [];
@@ -441,8 +466,37 @@ final class AddressParser
     {
         $name = (string)($c["name"] ?? "");
         $aliases = is_array($c["aliases"] ?? null) ? $c["aliases"] : [];
+        foreach ($this->buildAutonomousPrefectureShortAliases($name) as $short) {
+            $aliases[] = $short;
+        }
         $all = $this->toAliasSet($name, $aliases, self::CITY_SUFFIX);
         return $this->sanitizeAliases($all, 2, self::GENERIC_CITY_NAMES);
+    }
+
+    /**
+     * 自治州日常简称，例如：
+     * - 伊犁哈萨克自治州 → 伊犁 / 伊犁州
+     * - 延边朝鲜族自治州 → 延边 / 延边州
+     *
+     * @return array<int, string>
+     */
+    private function buildAutonomousPrefectureShortAliases(string $name): array
+    {
+        if (!$this->endsWith($name, "自治州")) {
+            return [];
+        }
+
+        $withoutPrefecture = $this->dropSuffix($name, ["自治州"]);
+        $short = $this->dropSuffix($withoutPrefecture, self::ETHNIC_AUTONOMOUS_SUFFIXES);
+        if ($short === "" || $short === $withoutPrefecture) {
+            return [];
+        }
+
+        $out = [$short];
+        if (!$this->endsWith($short, "州")) {
+            $out[] = $short . "州";
+        }
+        return $out;
     }
 
     private function buildDistrictAliases(array $d): array
